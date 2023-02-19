@@ -1,4 +1,14 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=naoki-00-ito)
+
+## 🤩 About me
+
+I'm Naoki Ito.
+
+- Website coder 💻
+- Lives in Japan 🇯🇵
+- love bands 🎸, live music 🎤 and dogs 🐾
+
+## 📖 Status
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki-00-ito&theme=dracula)
 
