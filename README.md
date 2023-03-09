@@ -6,7 +6,7 @@ I'm Naoki Ito.
 
 - Website coder 💻
 - Lives in Japan 🇯🇵
-- ove bands 🎸, live music 🎤 and dogs 🐾
+- Love bands 🎸, live music 🎤 and dogs 🐾
 
 ## 📖 Status
 
