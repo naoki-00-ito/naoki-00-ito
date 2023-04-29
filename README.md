@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=naoki-00-ito)
-
 ## 🤩 About me
 
 I'm Naoki Ito.
@@ -29,3 +27,6 @@ I'm Naoki Ito.
   </a>
 </p>
 
+---
+
+<img src="https://komarev.com/ghpvc/?username=naoki-00-ito&color=blue&style=flat-square&label=visitors" align="right" />
