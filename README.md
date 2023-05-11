@@ -14,13 +14,13 @@ I'm Naoki Ito.
   <a href="https://github.com/naoki-00-ito">
     <img
       height="170px"
-      src="https://github-readme-stats.vercel.app/api?username=naoki-00-ito&count_private=true&show_icons=true&theme=dracula"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=naoki-00-ito&count_private=true&show_icons=true&theme=dracula"
     />
   </a>
   <a href="https://github.com/naoki-00-ito">
     <img
       height="170px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki-00-ito&layout=compact&theme=dracula"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naoki-00-ito&layout=compact&theme=dracula"
     />
   </a>
 </p>
