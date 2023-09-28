@@ -2,7 +2,7 @@
 
 I'm Naoki Ito.
 
-- Website coder 💻
+- Web Frontend Engineer 💻
 - Lives in Japan 🇯🇵
 - Love bands 🎸, live music 🎤 and dogs 🐾
 
