@@ -8,7 +8,7 @@ I'm Naoki Ito.
 
 ## 💼 Works
 
-### Principal
+### Main
 
 🏢 Web Production Company
 
