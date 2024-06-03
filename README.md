@@ -16,7 +16,7 @@ I'm Naoki Ito.
 
 🧑‍💻 Rowicy
 
-- Website: https://www.rowicy.com/
+- Web: https://www.rowicy.com/
 - X: [@rowicy_official](https://x.com/rowicy_official)
 
 ## 📖 Status
