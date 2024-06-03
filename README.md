@@ -2,9 +2,22 @@
 
 I'm Naoki Ito.
 
-- Web Frontend Engineer 💻
+- Web Frontend Developer 💻
 - Lives in Japan 🇯🇵
 - Love bands 🎸, live music 🎤 and dogs 🐾
+
+## 💼 Works
+
+### Principal
+
+🏢 Web Production Company
+
+### Private
+
+🧑‍💻 Rowicy
+
+Website: https://www.rowicy.com/
+X      : [@rowicy_official](https://x.com/rowicy_official)
 
 ## 📖 Status
 
