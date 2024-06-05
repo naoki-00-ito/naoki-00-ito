@@ -4,7 +4,7 @@ I'm Naoki Ito.
 
 - Web Frontend Developer 💻
 - Lives in Japan 🇯🇵
-- Love bands 🎸, live music 🎤 and dogs 🐾
+- Love Live music 🎧 and dogs 🐾
 
 ## 💼 Works
 
