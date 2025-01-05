@@ -33,7 +33,7 @@ I'm Naoki Ito.
   <a href="https://github.com/naoki-00-ito">
     <img
       height="170px"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naoki-00-ito&layout=compact&include_orgs=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER,MEMBER&hide=html,css&theme=dracula"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naoki-00-ito&layout=compact&include_orgs=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER,MEMBER&hide=html,css,ruby&theme=dracula"
     />
   </a>
 </p>
