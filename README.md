@@ -41,6 +41,10 @@ I'm Naoki Ito.
 <!--START_SECTION:lapras-card-->
 <!--END_SECTION:lapras-card-->
 
+[![Contributions](https://badgen.org/img/qiita/naoki-00-ito/contributions?style=plastic)](https://qiita.com/naoki-00-ito)
+
+[![Followers](https://badgen.org/img/bluesky/naoki.site/followers?style=plastic)](https://bsky.app/profile/naoki.site)
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=naoki-00-ito&color=blue&style=flat-square&label=visitors" align="right" />
