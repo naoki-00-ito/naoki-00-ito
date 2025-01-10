@@ -38,6 +38,9 @@ I'm Naoki Ito.
   </a>
 </p>
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=naoki-00-ito&color=blue&style=flat-square&label=visitors" align="right" />
