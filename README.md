@@ -10,7 +10,7 @@ I'm Naoki Ito.
 
 ### Main
 
-🏢 Web Production Company
+🏢 Web Production Company → 𝓷𝓮𝔁𝓽: Manufacturing Company (web services)
 
 ### Private
 
