@@ -1,6 +1,6 @@
 ## 🤩 About me
 
-I'm Naoki Ito.
+I'm Naoki.
 
 - Web Frontend Developer 💻
 - Lives in Japan 🇯🇵
